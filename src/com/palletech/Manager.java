@@ -2,6 +2,8 @@ package com.palletech;
 
 public class Manager 
 {
+
+	"Welcome to ashokit"
 	private int id;
 	private String name;
 	private String dept;
